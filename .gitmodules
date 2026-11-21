@@ -1,6 +1,0 @@
-[submodule "spotled-web"]
-	path = spotled-web
-	url = https://github.com/brenovit/spotled-web.git
-[submodule "python-spotled"]
-	path = python-spotled
-	url = https://github.com/brenovit/python-spotled.git

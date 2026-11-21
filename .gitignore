@@ -1,0 +1,22 @@
+# Vendor / third-party material: never commit
+*.apk
+*.xapk
+extracted/
+*.DZK
+*.gif
+
+# Python
+.venv/
+__pycache__/
+*.egg-info/
+.pytest_cache/
+
+# Node / build
+node_modules/
+dist/
+
+# OS / editor / local config
+.DS_Store
+.env
+.env.*
+.claude/settings.local.json
